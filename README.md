@@ -21,13 +21,6 @@ This project develops an **interactive, multi-page Power BI dashboard** to optim
 
 ---
 
-## 📁 Dataset
-- **Format:** Excel/CSV  
-- **Source:** Google Drive  
-- **Dataset Link:** *[Insert dataset link here]*  
-
----
-
 ## 📈 Dashboard Structure
 
 ### **Page 1: Financial Overview & Revenue Performance**
